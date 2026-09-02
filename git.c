@@ -5,7 +5,7 @@ int main()
     int b =2;
     int v ;
     int c;
-    int p= 10;
+    
     // cgfdfhhh
     c=i+a;
     v = b+2;

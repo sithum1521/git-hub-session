@@ -10,6 +10,7 @@ int main()
     c=i+a;
     v = b+2;
     printf("%d",c);
+     printf("%d",v);
     return 0;
 }
 
